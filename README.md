@@ -26,7 +26,7 @@ This code is a Jupyter notebook that contains a series of code cells for an indi
 
 ## Install
 
-To run this project, you will need to add the following install the following tools
+To run this project, you will need to install the following tools
 
 `pandas`
 `seaborn`
